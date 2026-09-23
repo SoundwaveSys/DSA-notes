@@ -66,8 +66,7 @@ programming language you know.
 
 ## DSA Starts with Concepts and Reasoning
 
-![DSA starts with concepts and
-reasoning](./dsa-concepts-and-reasoning.png)
+
 
 The learning process can be summarized as:
 
