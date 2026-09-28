@@ -22,7 +22,9 @@ Now imagine changing the order: heat the dry rice first, then try to wash it. Yo
 
 Programming is the act of creating precise, ordered instructions for a computer to carry out a task. The word ordered matters. Having all the steps is not enough; they must happen in the right sequence.
 
-Ordered instructions: cooking rice
+<p align="center">
+  <img src="https://static.takeuforward.org/content/programming-and-computers-images/01-ordered-instructions.png" alt="Ordered instructions: cooking rice" width="750">
+</p>
 
 Ordered instructions: cooking rice
 
@@ -52,7 +54,9 @@ Hardware means physical components. Examples include the screen, keyboard, mouse
 
 Software means programs and related information. Examples include a browser, calculator, games, WhatsApp, YouTube, and operating systems such as Windows, macOS, Android and iOS.
 
-Hardware and software
+<p align="center">
+  <img src="https://static.takeuforward.org/content/programming-and-computers-images/02-hardware-and-software.png" alt="Hardware and software" width="750">
+</p>
 
 Hardware and software
 
@@ -90,7 +94,9 @@ RAM is the computer’s fast, temporary working memory. It holds instructions an
 
 When photos are read from storage, copies of their data can be kept in RAM. If the same data is requested again and a suitable copy is still available, the system can reuse it instead of reading it from storage again. Keeping data for reuse this way is called caching.
 
-RAM and caching
+<p align="center">
+  <img src="https://static.takeuforward.org/content/programming-and-computers-images/03-ram-and-caching.png" alt="RAM and caching" width="750">
+</p>
 
 RAM and caching
 
@@ -112,7 +118,9 @@ This is a high-level model of an ordinary app running on a phone or computer. It
 
 Imagine a student studying from books. The relationship becomes easier to remember:
 
-CPU, RAM and storage: study-table model
+<p align="center">
+  <img src="https://static.takeuforward.org/content/programming-and-computers-images/04-cpu-ram-storage.png" alt="CPU, RAM and storage: study-table model" width="750">
+</p>
 
 CPU, RAM and storage: study-table model
 
@@ -170,7 +178,9 @@ A program is a set of instructions that tells a computer what to do. Programming
 
 Return to a familiar task: preparing chai. One recipe might ask you to take a pan, add water and tea leaves, boil them, add milk and sugar, let the mixture cook, filter it into a cup, and serve it. Quantities and timing would need to be specified for a complete recipe.
 
-Image 5
+<p align="center">
+  <img src="https://static.takeuforward.org/content/programming-and-computers-images/05-chai-program.png" alt="Image 5" width="750">
+</p>
 
 Image 5
 
@@ -218,7 +228,9 @@ Fix: Correct that instruction.
 
 Test again: Make a fresh batch using the corrected recipe and check the result.
 
-Debugging process
+<p align="center">
+  <img src="https://static.takeuforward.org/content/programming-and-computers-images/06-debugging-process.png" alt="Debugging process" width="750">
+</p>
 
 Debugging process
 
@@ -242,7 +254,9 @@ Programming languages and their libraries offer similar help. A function can pro
 
 A car also offers brakes, gears and other controls. Different car models offer different features. Similarly, programming languages provide different features and ways to express work.
 
-From source code to execution
+<p align="center">
+  <img src="https://static.takeuforward.org/content/programming-and-computers-images/07-code-to-execution.png" alt="From source code to execution" width="750">
+</p>
 
 From source code to execution
 
@@ -314,7 +328,9 @@ Suppose an account has 500 units available. Two requests, each for 400 units, ar
 
 If each request independently checks the same old balance of 500, each could conclude that 400 is available. But both cannot successfully spend those funds: together they require 800.
 
-Concurrent withdrawals from a shared balance
+<p align="center">
+  <img src="https://static.takeuforward.org/content/programming-and-computers-images/08-concurrent-withdrawals.png" alt="Concurrent withdrawals from a shared balance" width="750">
+</p>
 
 Concurrent withdrawals from a shared balance
 
@@ -360,7 +376,9 @@ The response is processed. Received data is used to prepare posts and interface 
 
 The screen displays the feed. The app responds as you scroll, tap or move to another screen.
 
-What happens when Instagram opens
+<p align="center">
+  <img src="https://static.takeuforward.org/content/programming-and-computers-images/09-instagram-startup.png" alt="What happens when Instagram opens" width="750">
+</p>
 
 What happens when Instagram opens
 
